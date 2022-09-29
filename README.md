@@ -1,4 +1,4 @@
-### Hi there <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width=5>, I'm Anton aka Y0plait
+### Hi there <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width=15>, I'm Anton aka Y0plait
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y0plait&show_icons=true&hide_border=true&theme=tokyonight" alt="TopLangs"/>
