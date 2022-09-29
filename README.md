@@ -5,4 +5,4 @@
 
 Currently I'm in college and am going to an engineering school.
 
-<p align="center">[![Y0plait's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y0plait&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)</p>
+<p align="center"> [![Y0plait's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y0plait&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) </p>
