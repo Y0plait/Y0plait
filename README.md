@@ -6,4 +6,8 @@
 
 Currently I'm in college and am going to an engineering school.
 
-<p align="center"> <img href="https://github-readme-stats.vercel.app/api?username=Y0plait&count_private=false&show_icons=true&hide_border=true&theme=radical" alt="Y0plait"/>
+<p align="center"> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Y0plait)](https://github.com/anuraghazra/github-readme-stats)
+![Y0plait's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y0plait&show_icons=true&hide_border=true&theme=radical)
+
+</p>
