@@ -5,7 +5,7 @@
 </p>
 
 - 🔭 I’m currently working on a Raspberry Pi security case,,
-- 🛠  I'm interested in every domains (AI, robotics, web programming ...)
+- 🛠  I'm interested in every domains (AI, robotics, web programming, networking ...)
 
 Currently in college, planning to go to engineering school
 
